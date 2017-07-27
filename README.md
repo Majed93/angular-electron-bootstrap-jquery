@@ -43,7 +43,7 @@
 </tbody>
 </table>
 
-Boilerplate code for angular & electron combined with bootstrap and jQuery. Also contains simple animation.
+Boilerplate code for angular & electron combined with bootstrap and jQuery. Also contains simple animation. <a href="https://majed93.github.io/angular-electron-bootstrap-jquery/">Demo</a>
 <br>
 <br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
