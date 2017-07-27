@@ -1,7 +1,35 @@
 # Angular Electron Bootstrap Jquery
 
-Boilerplate code for angular & electron combined with bootstrap and jQuery
+[![npm][npm-badge]][npm-badge-url]
 
+<div>
+<a href="https://angular.io/">
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="100" height="100">
+</a>
+<code>
+4.3.1
+</code>
+</div
+<div>
+<a href="https://v4-alpha.getbootstrap.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Boostrap_logo.svg" width="100" height="100">
+</a>
+<code>
+4.0.0-alpha.6
+</code>
+</div>
+<div>
+<a href="https://jquery.com/">
+<img src="http://www.ics.hawaii.edu/wp-content/uploads/2013/08/jquerylogo320.png" width="100" height="100">
+</a>
+<code>
+3.2.1
+</code>
+</div
+
+Boilerplate code for angular & electron combined with bootstrap and jQuery. Also contains simple animation.
+<br>
+<br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
 
 ## Development server
@@ -28,3 +56,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+[npm-badge]: https://img.shields.io/npm/v/@angular/cli.svg
+[npm-badge-url]: https://www.npmjs.com/package/@angular/cli
+
+[bs-logo]: https://v4-alpha.getbootstrap.com/assets/brand/bootstrap-social-logo.png
+[bs-url]: https://v4-alpha.getbootstrap.com
