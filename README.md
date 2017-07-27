@@ -1,6 +1,8 @@
-# AngularElectronBootstrapJquery
+# Angular Electron Bootstrap Jquery
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
+Boilerplate code for angular & electron combined with bootstrap and jQuery
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.5.
 
 ## Development server
 
