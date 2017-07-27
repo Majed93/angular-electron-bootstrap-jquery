@@ -75,9 +75,14 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## Running Electron
+`build`
+`start-ng`
+`electron`
+
+Note: `start-ng` must be running before electron for live reload.
+
 
 [npm-badge]: https://img.shields.io/npm/v/@angular/cli.svg
 [npm-badge-url]: https://www.npmjs.com/package/@angular/cli
 
-[bs-logo]: https://v4-alpha.getbootstrap.com/assets/brand/bootstrap-social-logo.png
-[bs-url]: https://v4-alpha.getbootstrap.com
