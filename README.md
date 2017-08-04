@@ -8,7 +8,7 @@
 <code>1.7.5</code>
 </th>
 <th>
-<code>4.3.2</code>
+<code>4.3.3</code>
 </th>
 <th align="center">
 <code>4.0.0-alpha.6</code>
